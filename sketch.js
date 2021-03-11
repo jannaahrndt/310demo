@@ -19,7 +19,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(700, 600);
+  createCanvas(1200, 600);
   ec = createGraphics(700,600);
 
   img1 = loadImage('assets/Globe.png');
